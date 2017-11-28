@@ -9848,7 +9848,7 @@
       ]
     },
     "System.Net.Security/4.3.0": {
-      "sha512": "IgJKNfALqw7JRWp5LMQ5SWHNKvXVz094U6wNE3c1i8bOkMQvgBL+MMQuNt3xl9Qg9iWpj3lFxPZEY6XHmROjMQ==",
+      "sha512": "sb7Wv9245Tc6fHtD2OIzE6eqnWqqRfHk4pIhyBfQRyr7+7KZ5xhZAkaAPfGtDdf954ZG1XMk67TcE25igyViCg==",
       "type": "package",
       "path": "system.net.security/4.3.0",
       "files": [
@@ -10916,7 +10916,7 @@
       ]
     },
     "System.Runtime.Serialization.Json/4.0.2": {
-      "sha512": "+7DIJhnKYgCzUgcLbVTtRQb2l1M0FP549XFlFkQM5lmNiUBl44AfNbx4bz61xA8PzLtlYwfmif4JJJW7MPPnjg==",
+      "sha512": "mdPVrq4Md1fuCbah+e9ihRV1hrVoZ8H77d1HX/0mNwVKd+RQR240bLj36YoO8lgTjYRRJrZl+iK5Fxtb7pUtgQ==",
       "type": "package",
       "path": "system.runtime.serialization.json/4.0.2",
       "files": [
@@ -12324,7 +12324,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.3.0": {
-      "sha512": "lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
+      "sha512": "R1ayUO1iB9n+bjo7KHurTYbcvfnRnLdX3xRgZ8EiR8Vi1pS5EOyrffdKcSbSTDHOFHOx3lHNsw5N4OuyhYJ6yQ==",
       "type": "package",
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
@@ -12430,7 +12430,7 @@
       ]
     },
     "System.Xml.XPath/4.3.0": {
-      "sha512": "v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
+      "sha512": "XwK7dVj1Yd88l7/PLvFI7hTunE5vRjpktBrCw6RTCi/6sMIKzo5Wqu7PoKZij4M8O5dtPIIkGft/HR1tnFOuJg==",
       "type": "package",
       "path": "system.xml.xpath/4.3.0",
       "files": [
@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\net\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "D:\\code\\TodoAPI\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "D:\\net\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "D:\\code\\TodoAPI\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\think\\.nuget\\packages\\",
-      "outputPath": "D:\\net\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "D:\\code\\TodoAPI\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
